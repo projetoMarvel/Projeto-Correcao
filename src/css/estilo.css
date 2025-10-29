@@ -44,20 +44,20 @@ button {
     transition: background-color 0.3s ease;
 }
 
-.btnAdicionar {
+#btnAdicionar {
     background-color: #28a745; /* Verde */
     color: white;
 }
-.btnAdicionar:hover {
+#btnAdicionar:hover {
     background-color: #218838;
 }
 
-.btnRemover {
+#btnRemover {
     background-color: #dc3545; /* Vermelho */
     color: white;
 }
 
-.btnRemover:hover {
+#btnRemover:hover {
     background-color: #c82333;
 }
 
